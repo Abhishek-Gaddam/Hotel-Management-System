@@ -1,0 +1,10 @@
+hotel.Bill$6
+hotel.Bill$5
+hotel.Bill$4
+hotel.Bill
+hotel.Bill$3
+hotel.Bill$9
+hotel.Bill$8
+hotel.Bill$7
+hotel.Bill$2
+hotel.Bill$1
